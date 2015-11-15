@@ -1,19 +1,4 @@
 # Portal
+[Original code and idea](https://howistart.org/posts/elixir/1)
 
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
-
-  1. Add portal to your list of dependencies in `mix.exs`:
-
-        def deps do
-          [{:portal, "~> 0.0.1"}]
-        end
-
-  2. Ensure portal is started before your application:
-
-        def application do
-          [applications: [:portal]]
-        end
+With this application you can shoot portals and transfer data between them using Elixir Programming language. You can shoot portals in one computer or, if you wish, you can transfer data between portals in different computers in the same network.
